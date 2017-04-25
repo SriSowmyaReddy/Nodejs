@@ -1,0 +1,14 @@
+{
+  "name": "sampleproject",
+  "version": "1.0.0",
+  "description": "it is a sample project to understand npm and express in it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "srisowmyatumati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
