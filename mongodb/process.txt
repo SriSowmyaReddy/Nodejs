@@ -1,0 +1,8 @@
+Create yur own mongo db 
+Create a collection name and insert the data in the collection
+
+In the js file,
+Replace the file name in place of the db in line number 5.
+and also replace the collection name in the file where required with your respective collection name
+according to your database.
+
